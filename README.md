@@ -9,9 +9,10 @@ Implementation of our paper: [Reinforcement Learning for Solving the Vehicle Rou
 
 ## Dependencies
 
-
+* Python==3.6
 * Numpy
-* [tensorflow](https://www.tensorflow.org/)>=1.2
+* [tensorflow](https://www.tensorflow.org/)==1.4
+* Scipy
 * tqdm
 
 ## How to Run
